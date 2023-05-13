@@ -1,2 +1,4 @@
-# Batman_logger
-Paid for this logger but now im leaking it so...
+Sends automated messages to twitter automated account useing python
+
+
+MADE BY H4YDEN
